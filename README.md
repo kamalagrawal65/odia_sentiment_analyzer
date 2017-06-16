@@ -1,0 +1,1 @@
+Run the project in command prompt with command: "index.py run"
